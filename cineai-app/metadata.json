@@ -1,0 +1,6 @@
+{
+  "name": "CineAI Studio",
+  "description": "AI-powered cinematic camera with pre-programmed filters, auto-unblurrer, and shorts cinematic transformation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
